@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b;
+    float a,b;
     cout<<"Rectangle Area Calculator :"<<endl;
     cout<<"Enter length :";
     cin>>a; 
